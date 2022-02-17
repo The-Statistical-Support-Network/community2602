@@ -1,0 +1,47 @@
+---
+title: "Viscount Community Page"
+# runtime: shiny
+---
+
+Join the discussion ...
+
+```{r include = FALSE, warnings = FALSE, message=FALSE}
+# knitr::
+library(tidyverse)
+library(knitr)
+```
+
+# {.tabset .tabpills}
+
+## Background
+
+We are sorting the rubbish. In the ACT it turns out that cans and bottles can be returned to a depo for 10c a bottle or aluminium cans. They only accept drinking vessels under 1.5 litres so the combination of all our bottles only just makes it worth while. 
+
+My idea is to use the bottle money to buy seedlings for the garden I have built out the back. Join in the conversation to know whats going on and to help out if you would like. If you would like to take the cans yourself I have set up a account to sent the bottle code too below:
+
+```{r warnings = FALSE, message=FALSE}
+#insert image here...
+```
+
+
+## Join the discussion
+
+I have created a private discord server (as all the gaming kids do) if you would like to add or suggest anything head over here....
+ 
+```{r echo = FALSE, warnings = FALSE, message=FALSE}
+knitr::include_graphics(here::here("qr_code2602.png"))
+```
+
+<iframe src="https://discordapp.com/widget?id=943418194826235914" width="350" height="500"></iframe>
+
+## Calender Events
+
+Nothing formal here just all a bit of a testing ground for now.
+
+<!-- google calender events... -->
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%230B8043&ctz=Australia%2FSydney&showNav=0&showTitle=1&showPrint=0&showTz=0&showCalendars=0&mode=AGENDA&src=ZnE1cjZvbHY5bDM5NnBtNmthY2s1ZW00ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%23F09300" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+
+
+
